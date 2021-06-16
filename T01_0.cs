@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace T02
+namespace T01
 {
     class T02_0
     {
