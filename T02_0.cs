@@ -1,4 +1,4 @@
-﻿/*using System;
+﻿using System;
 
 namespace T02
 {
@@ -11,4 +11,3 @@ namespace T02
         }
     }
 }
-*/
